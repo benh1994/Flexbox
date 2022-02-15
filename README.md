@@ -1,2 +1,0 @@
-# Flexbox
-Odin Project Flexbox
